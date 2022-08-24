@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on projects that I can include in my portfolio
-- 📫 How to reach me ...
+- 📫 How to reach me carlos2909almao@gmail.com -- [LinkedIn](https://www.linkedin.com/in/carlos-almao2909/)
 
 <!---
 CarloMagno29/CarloMagno29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
