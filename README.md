@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarloMagno29
 - 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning React and Python
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on projects that I can include in my portfolio
 - 📫 How to reach me ...
 
